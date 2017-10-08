@@ -20,11 +20,11 @@
 <table><tr>
 <B><FONT FACE="Georgia,serif"><FONT COLOR="#3333FF"><FONT SIZE=+3>谭/Tan&nbsp;&nbsp;&nbsp;&nbsp; 焜/Kun</FONT> </FONT><BR>
 </FONT></B><br /><br /></tr>
-<tr align=top><td>
+<tr align=top valing=bottom><td>
 <FONT size=+1>
 <p>Vice President, Central Software Institute<br/>
-Director, Cloud Networking Lab.<br/>
-Chief Architect<br/>
+Director and Chief Architect, Cloud Networking Lab.<br/>
+<br />
 Huawei Technologies, Co., Ltd.</P>
 
 <hr width=75% align=left>
@@ -36,7 +36,7 @@ Huawei Technologies, Co., Ltd.</P>
 
 <!-- second row-->
 <tr>
-<td> 
+<td valign=top> 
 <p><b><font size=+1>Contact info:</font></b> <br />
 email: <a href="mailto:kun.tan@huawei.com">kun.tan@huawei.com</a><br />
 <a href="https://www.linkedin.com/in/kun-tan-7993b114">LinkedIn</a> <br />
